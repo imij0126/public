@@ -1,0 +1,5 @@
+#propertiestTest
+#Tue Jul 09 14:32:56 KST 2024
+List=ArrayList
+Map=Properties
+Set=HashSet
